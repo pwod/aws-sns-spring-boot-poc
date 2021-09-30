@@ -1,4 +1,4 @@
-### **Prova de Conceito: aws-sqs-spring-boot-poc**
+### **Prova de Conceito: aws-sns-spring-boot-poc**
 
 Intuito dessa Aplicação é demostrar na Prática como podemos criar
 uma App que se comunica com SNS da Aws.
