@@ -21,3 +21,5 @@ Java: 11
 Maven
 Spring Boot 2.5.5
 Spring Cloud AWS
+
+Obs: Aplicação está utilizando Schedule para de X em X tempos fazer uma postagem nova no Tópico.
